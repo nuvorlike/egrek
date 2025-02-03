@@ -3867,9 +3867,9 @@ const il = "/PENGS.mp4",
   },
   ul = {
     target: "_blank",
-    href: "https://x.com/discruptElisaOS",
+    href: "https://x.com/Pengulabs_",
     style: { scale: "0.8" },
-    alt: "https://x.com/discruptElisaOS",
+    alt: "https://x.com/Pengulabs_",
   },
   al = {
     xmlns: "http://www.w3.org/2000/svg",
