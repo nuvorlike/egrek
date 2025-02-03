@@ -3848,7 +3848,7 @@ function sl(e) {
 function nl(e) {
   return J(e) ? document.querySelector(e) : e;
 }
-const il = "/eliza.mp4",
+const il = "/PENGS.mp4",
   rl = (e, t) => {
     const s = e.__vccOpts || e;
     for (const [n, i] of t) s[n] = i;
@@ -3924,7 +3924,7 @@ const il = "/eliza.mp4",
       });
       function o() {
         const u = [
-          "Hi, i'm eliza",
+          "Hi, i'm PengsAI",
           "Welcome to our community",
           "Join us, to build our dream",
         ];
@@ -3995,7 +3995,7 @@ const il = "/eliza.mp4",
                   (d[4] = M(
                     "span",
                     { style: { "padding-left": "20px", "font-size": "14px" } },
-                    "eliza community",
+                    "PengsAI",
                     -1
                   )),
                 M("div", fl, [
@@ -4180,32 +4180,32 @@ const il = "/eliza.mp4",
                       M(
                         "p",
                         null,
-                        " The $eliza project has turned into a full-blown war between $eliza (lowercase) and $ELIZA (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
+                        " The $PENGS project has turned into a full-blown war between $PENGS (lowercase) and $PENGS (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
                         -1
                       ),
-                      M("p", null, "$eliza – The Power of the Community", -1),
+                      M("p", null, "$PENGS – The Power of the Community", -1),
                       M(
                         "p",
                         null,
-                        " At first, $eliza was all about decentralization. $eliza (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $eliza forward. ",
-                        -1
-                      ),
-                      M(
-                        "p",
-                        null,
-                        "$ELIZA – The Conspiracy Group Takes Over",
+                        " At first, $PENGS was all about decentralization. $PENGS (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $PENGS forward. ",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        ' But things started to shift. Shaw sold off all his $eliza (lowercase) and at the same time, launched $ELIZA with the backing of a conspiracy group. They started buying up $ELIZA through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        "$PENGS – The Conspiracy Group Takes Over",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $ELIZA became just another tool for market manipulation, leaving $eliza and the principles of decentralization in the dust. ",
+                        ' But things started to shift. Shaw sold off all his $PENGS (lowercase) and at the same time, launched $PENGS with the backing of a conspiracy group. They started buying up $PENGS through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        -1
+                      ),
+                      M(
+                        "p",
+                        null,
+                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $PENGS became just another tool for market manipulation, leaving $PENGS and the principles of decentralization in the dust. ",
                         -1
                       ),
                     ]),
