@@ -4004,9 +4004,9 @@ const il = "/PENGS.mp4",
                       "a",
                       {
                         target: "_blank",
-                        href: "https://www.dextools.io/app/en/solana/pair-explorer/Cx6W3Bmxgpr5cF5tJyfTog3qbmdWDXjF9DmUboQdWc53?t=1738152322707",
+                        href: "https://www.dextools.io/app/en/abstract",
                         style: { width: "24px", height: "24px", scale: "0.85" },
-                        alt: "https://www.dextools.io/app/en/solana/pair-explorer/Cx6W3Bmxgpr5cF5tJyfTog3qbmdWDXjF9DmUboQdWc53?t=1738152322707",
+                        alt: "https://www.dextools.io/app/en/abstract",
                       },
                       [
                         M(
@@ -4168,7 +4168,7 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         { style: { color: "orange" } },
-                        "abstractCA",
+                        "comingsoon",
                         -1
                       ),
                       M(
