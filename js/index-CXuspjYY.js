@@ -4083,9 +4083,9 @@ const il = "/PENGS.mp4",
                       "a",
                       {
                         target: "_blank",
-                        href: "https://dexscreener.com/abstract",
+                        href: "https://dexscreener.com/abstract/0xb8d7d21c0f305b789b62a10cba675ab12958b9d5",
                         style: { width: "24px", height: "24px", scale: "0.85" },
-                        alt: "https://dexscreener.com/abstract",
+                        alt: "https://dexscreener.com/abstract/0xb8d7d21c0f305b789b62a10cba675ab12958b9d5",
                       },
                       [
                         M(
@@ -4168,7 +4168,7 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         { style: { color: "orange" } },
-                        "comingsoon",
+                        "0xB8d7d21c0f305b789b62a10CbA675Ab12958B9d5",
                         -1
                       ),
                       M(
