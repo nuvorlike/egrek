@@ -4193,7 +4193,7 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         null,
-                        "$PENGS – The Conspiracy Group Takes Over",
+                        "$PENGS",
                         -1
                       ),
                       M(
