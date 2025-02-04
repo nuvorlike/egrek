@@ -3884,9 +3884,9 @@ const il = "/PENGS.mp4",
   },
   dl = {
     target: "_blank",
-    href: "https://t.me/discruptElisaOS",
+    href: "https://t.me/PengsAI",
     style: { scale: "0.9", translate: "-1px 0px" },
-    alt: "https://t.me/discruptElisaOS",
+    alt: "https://t.me/PengsAI",
   },
   hl = {
     height: "24px",
