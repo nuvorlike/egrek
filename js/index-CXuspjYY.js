@@ -3884,9 +3884,9 @@ const il = "/PENGS.mp4",
   },
   dl = {
     target: "_blank",
-    href: "https://t.me/PengsAI",
+    href: "https://t.me",
     style: { scale: "0.9", translate: "-1px 0px" },
-    alt: "https://t.me/PengsAI",
+    alt: "https://t.me/",
   },
   hl = {
     height: "24px",
@@ -3924,7 +3924,7 @@ const il = "/PENGS.mp4",
       });
       function o() {
         const u = [
-          "Hi, i'm PengsAI",
+          "Hi, i'm VVVAI",
           "Welcome to our community",
           "Join us, to build our dream",
         ];
@@ -3995,7 +3995,7 @@ const il = "/PENGS.mp4",
                   (d[4] = M(
                     "span",
                     { style: { "padding-left": "20px", "font-size": "14px" } },
-                    "PengsAI",
+                    "VVVAI",
                     -1
                   )),
                 M("div", fl, [
@@ -4083,9 +4083,9 @@ const il = "/PENGS.mp4",
                       "a",
                       {
                         target: "_blank",
-                        href: "https://dexscreener.com/abstract/0xb8d7d21c0f305b789b62a10cba675ab12958b9d5",
+                        href: "https://dexscreener.com/bera",
                         style: { width: "24px", height: "24px", scale: "0.85" },
-                        alt: "https://dexscreener.com/abstract/0xb8d7d21c0f305b789b62a10cba675ab12958b9d5",
+                        alt: "https://dexscreener.com/bera",
                       },
                       [
                         M(
@@ -4168,7 +4168,7 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         { style: { color: "orange" } },
-                        "0xB8d7d21c0f305b789b62a10CbA675Ab12958B9d5",
+                        "coming",
                         -1
                       ),
                       M(
@@ -4180,32 +4180,32 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         null,
-                        " The $PENGS project has turned into a full-blown war between $PENGS (lowercase) and $PENGS (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
+                        " The $VVV project has turned into a full-blown war between $VVV (lowercase) and $VVV (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
                         -1
                       ),
-                      M("p", null, "$PENGS – The Power of the Community", -1),
+                      M("p", null, "$VVV – The Power of the Community", -1),
                       M(
                         "p",
                         null,
-                        " At first, $PENGS was all about decentralization. $PENGS (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $PENGS forward. ",
-                        -1
-                      ),
-                      M(
-                        "p",
-                        null,
-                        "$PENGS",
+                        " At first, $VVV was all about decentralization. $VVV (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $VVV forward. ",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        ' But things started to shift. Shaw sold off all his $PENGS (lowercase) and at the same time, launched $PENGS with the backing of a conspiracy group. They started buying up $PENGS through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        "$VVV",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $PENGS became just another tool for market manipulation, leaving $PENGS and the principles of decentralization in the dust. ",
+                        ' But things started to shift. Shaw sold off all his $VVV (lowercase) and at the same time, launched $VVV with the backing of a conspiracy group. They started buying up $VVV through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        -1
+                      ),
+                      M(
+                        "p",
+                        null,
+                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $VVV became just another tool for market manipulation, leaving $VVV and the principles of decentralization in the dust. ",
                         -1
                       ),
                     ]),
