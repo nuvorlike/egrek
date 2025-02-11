@@ -3848,7 +3848,7 @@ function sl(e) {
 function nl(e) {
   return J(e) ? document.querySelector(e) : e;
 }
-const il = "/PENGS.mp4",
+const il = "images/logo.png",
   rl = (e, t) => {
     const s = e.__vccOpts || e;
     for (const [n, i] of t) s[n] = i;
