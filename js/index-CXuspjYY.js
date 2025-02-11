@@ -3848,7 +3848,7 @@ function sl(e) {
 function nl(e) {
   return J(e) ? document.querySelector(e) : e;
 }
-const il = "images/logo.png",
+const il = "/logo.png",
   rl = (e, t) => {
     const s = e.__vccOpts || e;
     for (const [n, i] of t) s[n] = i;
@@ -3867,9 +3867,9 @@ const il = "images/logo.png",
   },
   ul = {
     target: "_blank",
-    href: "https://x.com/Pengulabs_",
+    href: "https://x.com/_UniXBT",
     style: { scale: "0.8" },
-    alt: "https://x.com/Pengulabs_",
+    alt: "https://x.com/_UniXBT",
   },
   al = {
     xmlns: "http://www.w3.org/2000/svg",
