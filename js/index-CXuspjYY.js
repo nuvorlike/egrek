@@ -4168,7 +4168,7 @@ const il = "/logo.png",
                       M(
                         "p",
                         { style: { color: "orange" } },
-                        "coming",
+                        "https://www.unimemes.fun/chains/130/0x58B66f96f5B612432d7f05b6C8D923F54512eE40",
                         -1
                       ),
                       M(
