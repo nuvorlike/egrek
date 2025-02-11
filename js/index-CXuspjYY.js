@@ -3924,7 +3924,7 @@ const il = "/PENGS.mp4",
       });
       function o() {
         const u = [
-          "Hi, i'm VVVAI",
+          "Hi, i'm UNIXBT",
           "Welcome to our community",
           "Join us, to build our dream",
         ];
@@ -3995,7 +3995,7 @@ const il = "/PENGS.mp4",
                   (d[4] = M(
                     "span",
                     { style: { "padding-left": "20px", "font-size": "14px" } },
-                    "VVVAI",
+                    "UNAI",
                     -1
                   )),
                 M("div", fl, [
@@ -4083,9 +4083,9 @@ const il = "/PENGS.mp4",
                       "a",
                       {
                         target: "_blank",
-                        href: "https://dexscreener.com/bera",
+                        href: "https://dexscreener.com/uni",
                         style: { width: "24px", height: "24px", scale: "0.85" },
-                        alt: "https://dexscreener.com/bera",
+                        alt: "https://dexscreener.com/uni",
                       },
                       [
                         M(
@@ -4168,7 +4168,7 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         { style: { color: "orange" } },
-                        "0xc55a233e2186ce3edd853734254a00ba6b655d26",
+                        "coming",
                         -1
                       ),
                       M(
@@ -4180,32 +4180,32 @@ const il = "/PENGS.mp4",
                       M(
                         "p",
                         null,
-                        " The $VVV project has turned into a full-blown war between $VVV (lowercase) and $VVV (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
+                        " The $UNAI project has turned into a full-blown war between $UNAI (lowercase) and $UNAI (uppercase)—and it’s not just about token symbols. This is about decentralization vs. capital control, with the community stuck in the middle, fighting for its future. ",
                         -1
                       ),
-                      M("p", null, "$VVV – The Power of the Community", -1),
+                      M("p", null, "$UNAI – The Power of the Community", -1),
                       M(
                         "p",
                         null,
-                        " At first, $VVV was all about decentralization. $VVV (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $VVV forward. ",
-                        -1
-                      ),
-                      M(
-                        "p",
-                        null,
-                        "$VVV",
+                        " At first, $UNAI was all about decentralization. $UNAI (lowercase) represented the community—everyday investors, developers, and anyone who believed in the power of the people over centralized control. This token was built on the idea that the community should drive the project, and that community strength was what would push $UNAI forward. ",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        ' But things started to shift. Shaw sold off all his $VVV (lowercase) and at the same time, launched $VVV with the backing of a conspiracy group. They started buying up $VVV through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        "$UNAI",
                         -1
                       ),
                       M(
                         "p",
                         null,
-                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $VVV became just another tool for market manipulation, leaving $VVV and the principles of decentralization in the dust. ",
+                        ' But things started to shift. Shaw sold off all his $UNAI (lowercase) and at the same time, launched $UNAI with the backing of a conspiracy group. They started buying up $UNAI through pump-and-dump schemes (aka "rat trading"), manipulating the market, and completely ignoring the community’s interests. This wasn’t a project for the people anymore—it was hijacked by big capital, controlled by a handful of wealthy players. ',
+                        -1
+                      ),
+                      M(
+                        "p",
+                        null,
+                        " What was their goal? To centralize control, pump the token for profit, and shut the community out of the decision-making process. $UNAI became just another tool for market manipulation, leaving $UNAI and the principles of decentralization in the dust. ",
                         -1
                       ),
                     ]),
